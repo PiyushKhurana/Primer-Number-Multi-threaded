@@ -53,4 +53,9 @@ To compile and run this program, you will need a C++ compiler that supports the 
 
 <br>
 
+| Input (N)       | Time (s) Single Threaded | Time (s) Multi-threaded (2 Threads) |
+|-----------------|--------------------------|-------------------------------------|
+| 100M            | 2.59219                  | 1.597                               |
+| 1000M           | 64.2714                  | 41.8247                             |
+
   ![Demo](demo/demo.gif)
